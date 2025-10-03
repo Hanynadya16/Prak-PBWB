@@ -15,10 +15,10 @@ form HTML.
 
 ## Tampilan Aplikasi
 *Tampilan Awal Form*
-![alt text](<Screenshot (196)-1.png>)
+![<Screenshot (196)-1.png>]
 
 *Tampilan Form*
-![alt text](<Screenshot (197).png>)
+![<Screenshot (197).png>]
 
 *Tampilan Pesan Error Validasi*
-![alt text](<Screenshot (198).png>)
+![<Screenshot (198).png>]
